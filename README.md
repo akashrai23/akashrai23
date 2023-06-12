@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akashrai23
-- 👀 I’m interested in java,dsa,html,css,javascript,reactjs(framework)and cloud computing.Along with that i am also having indepth knowledge of dbms,os and computer networks.
+- 👀 I’m interested in java,dsa,html,css,javascript,reactjs(framework),devops and cloud computing.Along with that i am also having indepth knowledge of dbms,os and computer networks.
 - - 🌱 I’m currently learning web development to make Seo😁friendly websites...
 - 💞️ I’m looking to collaborate on cloud computing and web development 💻 projects ...
 - 📫 How to reach me Email-akashrai2013003@gmail.com 
